@@ -103,6 +103,7 @@ ul {
 li {
     padding-bottom: 8px;
     text-align: justify;
+    list-style-type: circle;
 }
 
 address {
